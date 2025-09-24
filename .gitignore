@@ -1,0 +1,14 @@
+# Ignore binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Ignore the compiled program (Go build output)
+main
+
+# Ignore JSON output files (scraper results)
+*.json
